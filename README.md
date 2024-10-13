@@ -68,9 +68,22 @@
 ## 🌐 Socials:
 <h3 align="center">Mohyware on every platform!</h3>
 
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/mohyware/)
-[![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)](https://leetcode.com/u/mohyware/)
-[![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)](https://stackoverflow.com/users/19523829/mohy-elden)
-[![Codeforces](https://img.shields.io/static/v1?style=for-the-badge&message=Codeforces&color=1F8ACB&logo=Codeforces&logoColor=FFFFFF&label=)](https://codeforces.com/profile/mohyware)
-[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)](https://www.instagram.com/mohyware)
-[![Facebook](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=0866FF&logo=Facebook&logoColor=FFFFFF&label=)](https://www.facebook.com/mohyware)
+<a href="https://www.linkedin.com/in/mohyware/" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn Badge"/>
+</a>
+<a href="https://leetcode.com/u/mohyware/" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=" alt="LeetCode Badge"/>
+</a>
+<a href="https://stackoverflow.com/users/19523829/mohy-elden" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=" alt="Stack Overflow Badge"/>
+</a>
+<a href="https://codeforces.com/profile/mohyware" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Codeforces&color=1F8ACB&logo=Codeforces&logoColor=FFFFFF&label=" alt="Codeforces Badge"/>
+</a>
+<a href="https://www.instagram.com/mohyware" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Instagram Badge"/>
+</a>
+<a href="https://www.facebook.com/mohyware" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=0866FF&logo=Facebook&logoColor=FFFFFF&label=" alt="Facebook Badge"/>
+</a>
+

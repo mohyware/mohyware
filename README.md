@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Mohy+Elden;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
-</h1> --> 
+</h1> -->
 
 <h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohy Elden</h1>
 

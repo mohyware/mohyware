@@ -72,17 +72,20 @@ Additionally, I am passionate about contributing to open-source projects. 💻
 
 ## 🌐 Socials:
 <h3 align="center">Mohyware is My Handle on every platform!</h3>
-<div style="text-align: center;">
-<a href="https://www.linkedin.com/in/mohyware/" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn Badge"/>
-</a>
-<a href="https://leetcode.com/u/mohyware/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohyware/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/mohyware" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mohyware/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:mohieelden50@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/mohyware/" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=" alt="LeetCode Badge"/>
 </a>
-<a href="https://www.instagram.com/mohyware" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Instagram Badge"/>
-</a>
-<a href="https://www.facebook.com/mohyware" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=0866FF&logo=Facebook&logoColor=FFFFFF&label=" alt="Facebook Badge"/>
-</a>
-</div>
+</p>

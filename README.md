@@ -13,7 +13,11 @@
 
 ## 🙋‍♂️ About me
 
-🌱 I’m currently studying Computer Science, I’ve developed a strong passion for programming. I've acquired foundational skills in C++ and object-oriented programming, and I’ve completed several projects utilizing these techniques. At the moment, I'm exploring web development, specifically concentrating on back-end development with Node.js. I’m actively working on projects to enhance my understanding of back-end careers and software engineering. 💻 💪
+🌱 I’m currently studying Computer Science, I’ve developed a strong passion for programming. I've acquired foundational skills in C++ and object-oriented programming, and I’ve completed several projects utilizing these techniques. 
+
+At the moment, I'm exploring web development, specifically concentrating on back-end development with Node.js. I’m actively working on projects to enhance my understanding of back-end career and software engineering. 💪
+
+Additionally, I am passionate about contributing to open-source projects. 💻 
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
@@ -30,9 +34,10 @@
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
 ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
+![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
+
 ## 📚 Libraries:
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![Sequelize](https://img.shields.io/static/v1?style=for-the-badge&message=Sequelize&color=222222&logo=Sequelize&logoColor=52B0E7&label=)
 ![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=)
@@ -66,19 +71,13 @@
   <br/>
 
 ## 🌐 Socials:
-<h3 align="center">Mohyware on every platform!</h3>
-
+<h3 align="center">Mohyware is My Handle on every platform!</h3>
+<div style="text-align: center;">
 <a href="https://www.linkedin.com/in/mohyware/" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn Badge"/>
 </a>
 <a href="https://leetcode.com/u/mohyware/" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=" alt="LeetCode Badge"/>
-</a>
-<a href="https://stackoverflow.com/users/19523829/mohy-elden" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=" alt="Stack Overflow Badge"/>
-</a>
-<a href="https://codeforces.com/profile/mohyware" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Codeforces&color=1F8ACB&logo=Codeforces&logoColor=FFFFFF&label=" alt="Codeforces Badge"/>
 </a>
 <a href="https://www.instagram.com/mohyware" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Instagram Badge"/>
@@ -86,4 +85,4 @@
 <a href="https://www.facebook.com/mohyware" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=0866FF&logo=Facebook&logoColor=FFFFFF&label=" alt="Facebook Badge"/>
 </a>
-
+</div>

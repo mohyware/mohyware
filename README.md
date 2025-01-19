@@ -13,17 +13,16 @@
 
 ## 🙋‍♂️ About me
 
-🌱 I’m currently studying Computer Science, I’ve developed a strong passion for programming. I've acquired foundational skills in C++ and object-oriented programming, and I’ve completed several projects utilizing these techniques. 
+- 📫 Reach me @ mohieelden50@gmail.com  
 
-At the moment, I'm exploring web development, specifically concentrating on back-end development with Node.js. I’m actively working on projects to enhance my understanding of back-end career and software engineering. 💪
+- 🌱 I am currently delving into the back-end development.
 
-Additionally, I am passionate about contributing to open-source projects. 💻 
+- 🤝 I’m looking for help with getting an SWE internship  
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mohyware&icon=1&color=0" alt="Visitor Count"/>
-  </a>
-</p>
+- 💻 I am passionate about contributing to open-source projects
+
+- 📢 Take a look at my [resume](https://drive.google.com/file/d/1HrobbSjRAUkI3XQFTvAwSkLu4stDiR0g/view?usp=drive_link)
+
 
 ## 💻 Languages & Frameworks:
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
@@ -39,24 +38,20 @@ Additionally, I am passionate about contributing to open-source projects. 💻
 ## 📚 Libraries:
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
-![Sequelize](https://img.shields.io/static/v1?style=for-the-badge&message=Sequelize&color=222222&logo=Sequelize&logoColor=52B0E7&label=)
 ![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Mongoose](https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=880000&logo=Mongoose&logoColor=FFFFFF&label=)
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=FF4438&logo=Redis&logoColor=FFFFFF&label=)
 ![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=008CDD&logo=Stripe&logoColor=FFFFFF&label=)
-![Passport](https://img.shields.io/static/v1?style=for-the-badge&message=Passport&color=222222&logo=Passport&logoColor=34E27A&label=)
 
 ## 🚀  Tools: 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
-![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
-![Nodemon](https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=222222&logo=Nodemon&logoColor=76D04B&label=)
-![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=)
-![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
 
 
@@ -75,12 +70,6 @@ Additionally, I am passionate about contributing to open-source projects. 💻
 <p align="center">
   <a href="https://www.linkedin.com/in/mohyware/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/mohyware" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/mohyware/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:mohieelden50@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />

@@ -71,9 +71,9 @@
   <a href="https://www.linkedin.com/in/mohyware/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mohieelden50@gmail.com" target="_blank">
+  <!-- <a href="mailto:mohieelden50@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://leetcode.com/u/mohyware/" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=" alt="LeetCode Badge"/>
 </a>

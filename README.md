@@ -21,7 +21,7 @@
 
 - 💻 I am passionate about contributing to open-source projects
 
-- 📢 Take a look at my [resume](https://drive.google.com/file/d/1HrobbSjRAUkI3XQFTvAwSkLu4stDiR0g/view?usp=drive_link)
+- 📢 Take a look at my [resume](https://drive.google.com/file/d/1Qq1ro-nL_LDR2yshQsvBEDjm7M3idqYL/view?usp=sharing)
 
 
 ## 💻 Languages & Frameworks:

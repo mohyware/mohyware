@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohy Elden</h1>
 
-<h3 align="center">Back-end Developer | Undergraduate Software Engineer</h3>
+<h3 align="center">Undergraduate Software Engineer</h3>
 
 ## 🙋‍♂️ About me
 
@@ -33,22 +33,26 @@
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
 ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
-![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
-
-## 📚 Libraries:
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
+
+## 📚 Databases & Libraries:
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Mongoose](https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=880000&logo=Mongoose&logoColor=FFFFFF&label=)
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=FF4438&logo=Redis&logoColor=FFFFFF&label=)
 ![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=008CDD&logo=Stripe&logoColor=FFFFFF&label=)
+![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)
+![Passport](https://img.shields.io/static/v1?style=for-the-badge&message=Passport&color=222222&logo=Passport&logoColor=34E27A&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 
 ## 🚀  Tools: 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
+![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
@@ -74,7 +78,10 @@
   <!-- <a href="mailto:mohieelden50@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> -->
+</a>
+  <a href="http://discordapp.com/users/mohyware" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="LeetCode Badge"/>
+</a>
   <a href="https://leetcode.com/u/mohyware/" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=" alt="LeetCode Badge"/>
-</a>
 </p>

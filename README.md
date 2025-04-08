@@ -15,11 +15,11 @@
 
 - 📫 Reach me @ mohieelden50@gmail.com  
 
-- 🌱 I am currently delving into the back-end development.
+- 🌱 I am currently delving into the **back-end development** and **machine learning**.
 
-- 🤝 I’m looking for help with getting an SWE internship  
+- 🤝 I’m looking for help with getting an SWE internship.
 
-- 💻 I am passionate about contributing to open-source projects
+- 💻 I am passionate about contributing to open-source projects.
 
 - 📢 Take a look at my [resume](https://drive.google.com/file/d/1ly8_8_2v45CZz4FqUtFCtNp_XOx2ue4c/view?usp=drive_link)
 
@@ -29,12 +29,14 @@
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
 ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
+
 
 ## 📚 Databases & Libraries:
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
@@ -44,7 +46,6 @@
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=FF4438&logo=Redis&logoColor=FFFFFF&label=)
 ![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=008CDD&logo=Stripe&logoColor=FFFFFF&label=)
 ![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)
-![Passport](https://img.shields.io/static/v1?style=for-the-badge&message=Passport&color=222222&logo=Passport&logoColor=34E27A&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 
 ## 🚀  Tools: 
@@ -75,13 +76,18 @@
   <a href="https://www.linkedin.com/in/mohyware/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/mohyware/" target="_blank">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=" alt="LeetCode Badge"/>
   <!-- <a href="mailto:mohieelden50@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> -->
-</a>
+    <a href="https://x.com/Mohyware" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=x&logoColor=Black&color=000000" />
+  </a>
   <a href="http://discordapp.com/users/mohyware" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="LeetCode Badge"/>
 </a>
-  <a href="https://leetcode.com/u/mohyware/" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=" alt="LeetCode Badge"/>
+    <a href="https://www.instagram.com/mohyware/" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" />
+  </a>
 </p>

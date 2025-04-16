@@ -15,7 +15,7 @@
 
 - 📫 Reach me @ mohieelden50@gmail.com  
 
-- 🌱 I am currently delving into the **back-end development** and **machine learning**.
+- 🌱 I am currently delving into the **web development**, with a focus on the **Backend**.
 
 - 🤝 I’m looking for help with getting an SWE internship.
 
@@ -51,7 +51,6 @@
   <br/>
   <a><img alt="mohy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohyware&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="192px"/></a>
   <a><img alt="mohy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohyware&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
-    <a><img alt="mohy's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=mohyware&theme=dark&hide_border=true" height="192px"/></a>
   <br/>
 
 ## 🌐 Socials:

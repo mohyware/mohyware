@@ -19,9 +19,9 @@
 
 - 🤝 I’m looking for help with getting an SWE internship.
 
-- 💻 I am passionate about contributing to open-source projects.
+- 💻 I love building stuff and contributing to open-source projects.
 
-- 📢 Take a look at my [resume](https://drive.google.com/file/d/1ly8_8_2v45CZz4FqUtFCtNp_XOx2ue4c/view?usp=drive_link)
+- 📢 Take a look at my [resume](https://drive.google.com/file/d/1C-3LP2YUPfFkQK_4AFUGpcPbIKbCFx7D/view?usp=sharing).
 
 
 ## 💻 Languages & Frameworks:
@@ -41,7 +41,7 @@
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 
 
 ## 📊 Github stats

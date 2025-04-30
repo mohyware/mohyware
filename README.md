@@ -21,7 +21,7 @@
 
 - 💻 I love building stuff and contributing to open-source projects.
 
-- 📢 Take a look at my [resume](https://drive.google.com/file/d/1C-3LP2YUPfFkQK_4AFUGpcPbIKbCFx7D/view?usp=sharing).
+- 📢 Take a look at my [resume](https://drive.google.com/file/d/182Q3tEhBVdrua6nYr0QIa8IaxSSc_8Gx/view?usp=sharing).
 
 
 ## 💻 Languages & Frameworks:

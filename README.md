@@ -20,7 +20,7 @@
 - 📢 Take a look at my [resume](https://drive.google.com/file/d/182Q3tEhBVdrua6nYr0QIa8IaxSSc_8Gx/view?usp=sharing).
 
 
-## 💻 Languages & Frameworks:
+## 💻 Technical Skills:
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)

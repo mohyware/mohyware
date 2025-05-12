@@ -7,7 +7,7 @@
   </a>
 </h1> --> 
 
-<h2 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohy Elden</h2>
+<!-- <h2 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohy Elden</h2> -->
 
 - 📫 Reach me @ mohieelden50@gmail.com  
 

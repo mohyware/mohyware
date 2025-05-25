@@ -18,7 +18,7 @@
 
 - 💻 I love building stuff and contributing to open-source projects.
 
-- 📢 Take a look at my [resume](https://drive.google.com/file/d/1tQ-W3khlc6fn68QjPwZZlhHCVNwPiN-y/view?usp=sharing).
+- 📢 Take a look at my [resume](https://drive.google.com/file/d/1p-y6slBxUvMZ21R7IFVVVXLqsDr45zoB/view?usp=sharing).
 
 
 ## 💻 Technical Skills:

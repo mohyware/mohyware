@@ -12,9 +12,9 @@
 
 - 📫 Reach me @ mohieelden50@gmail.com  
 
-- 🌱 I am currently diving into **web development**.
+<!-- - 🌱 I am currently diving into **web development**. -->
 
-- 🤝 I’m looking for help with getting an SWE internship.
+- 🤝 I'm currently open to new opportunities in the software industry.
 
 - 💻 I love building stuff and contributing to open-source projects.
 

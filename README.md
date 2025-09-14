@@ -23,36 +23,34 @@
 - 🌐 Check out [my website](https://mohyware.vercel.app/).
 
 
-## Technical Skills:
-![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-
-
-## Github stats
-
-<!-- Bassed on: https://github.com/mohyware/github-readme-stats -->
-<!-- <p align="center">
-  <br/>
-  <a><img alt="mohy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohyware&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="192px"/></a>
-  <a><img alt="mohy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohyware&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
-  <br/> -->
-<div align="center">  
-
-<img width="550px" src="https://github-readme-stats.vercel.app/api?username=mohyware&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-
-<!-- <img width="550px" src="https://nirzak-streak-stats.vercel.app/?user=mohyware&theme=dark&hide_border=false"> -->
-
-<!-- <img width="550px" src="https://github-contributor-stats.vercel.app/api?username=mohyware&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true"> -->
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    
+  ## Technical Skills
+  ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
+  ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+  ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+  ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
+  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+  ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
+  ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+  ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+  ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+  
+  </div>
+  <div style="flex: 1;">
+    
+  ## GitHub Stats
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=mohyware&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
+  
+  </div>
 </div>
+
+
+<!-- <div align="center"> -->
+<!-- </div> -->
 
 ## Socials:
 <h3 align="center">Lets Connect!</h3>
@@ -75,3 +73,20 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" />
   </a> -->
 </p>
+
+
+<!-- git hub cards -->
+
+<!-- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohyware&theme=tokyonight&hide_progress=true"> -->
+<!-- <img width="550px" src="https://nirzak-streak-stats.vercel.app/?user=mohyware&theme=dark&hide_border=false"> -->
+
+<!-- <img width="550px" src="https://github-contributor-stats.vercel.app/api?username=mohyware&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true"> -->
+
+
+<!-- Bassed on: https://github.com/mohyware/github-readme-stats -->
+<!-- <p align="center">
+  <br/>
+  <a><img alt="mohy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohyware&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="192px"/></a>
+  <a><img alt="mohy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohyware&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
+  <br/> -->
+<!-- <div align="center">   -->

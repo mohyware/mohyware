@@ -16,39 +16,46 @@
 
 - 🤝 I'm currently open to new opportunities in the software industry.
 
-- 💻 I love building stuff and contributing to open-source projects.
+- 💻 Interested in all kinds of software, especially web development. I also love building open-source projects and contributing to others.
 
 <!-- - 📢 Take a look at my [resume](https://drive.google.com/file/d/1p-y6slBxUvMZ21R7IFVVVXLqsDr45zoB/view?usp=sharing). -->
 
 - 🌐 Check out [my website](https://mohyware.vercel.app/).
 
 
-## 💻 Technical Skills:
-![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
-![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+## Technical Skills:
+![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
+<!-- ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=) -->
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
-![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
 
-## 📊 Github stats
+## Github stats
 
 <!-- Bassed on: https://github.com/mohyware/github-readme-stats -->
-<p align="center">
+<!-- <p align="center">
   <br/>
   <a><img alt="mohy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohyware&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="192px"/></a>
   <a><img alt="mohy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohyware&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
-  <br/>
+  <br/> -->
+<div align="center">  
 
-## 🌐 Socials:
+<img width="550px" src="https://github-readme-stats.vercel.app/api?username=mohyware&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+
+<!-- <img width="550px" src="https://nirzak-streak-stats.vercel.app/?user=mohyware&theme=dark&hide_border=false"> -->
+
+<!-- <img width="550px" src="https://github-contributor-stats.vercel.app/api?username=mohyware&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true"> -->
+</div>
+
+## Socials:
 <h3 align="center">Lets Connect!</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mohyware/" target="_blank">

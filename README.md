@@ -20,7 +20,7 @@
 
 <!-- - 📢 Take a look at my [resume](https://drive.google.com/file/d/1p-y6slBxUvMZ21R7IFVVVXLqsDr45zoB/view?usp=sharing). -->
 
-- 🌐 Check out [my website](https://mohyware.vercel.app/).
+- 🌐 Check out [my website](https://mohy.dev/).
 
 
 ## Technical Skills:
@@ -90,4 +90,5 @@
   <a><img alt="mohy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohyware&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="192px"/></a>
   <a><img alt="mohy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohyware&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
   <br/> -->
+
 <!-- <div align="center">   -->

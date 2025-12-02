@@ -38,7 +38,8 @@
 
 ## Github stats
 
-<div align="center">
+<!-- I will deploy this on my own later -->
+<!-- <div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mohyware&show_icons=true&theme=dark"
@@ -50,7 +51,24 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mohyware&show_icons=true" />
 </picture>
+</div> -->
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com/?user=mohyware&count_private=true&theme=tokyonight&border_radius=10" width="450" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mohyware&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="450" />
+      </td>
+    </tr>
+    <!-- <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mohyware&count_private=true&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="450"  />
+      </td>
+    </tr> -->
+  </table>
 </div>
 
 ## Socials:

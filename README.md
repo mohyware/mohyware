@@ -14,8 +14,6 @@
 
 <!-- - 🌱 I am currently diving into **web development**. -->
 
-- 🤝 I'm currently open to new opportunities in the software industry.
-
 - 💻 Interested in all kinds of software, especially web development. I also love building open-source projects and contributing to others.
 
 <!-- - 📢 Take a look at my [resume](https://drive.google.com/file/d/1p-y6slBxUvMZ21R7IFVVVXLqsDr45zoB/view?usp=sharing). -->
